@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Personal wish list application</description>
+        <device_type>browser</device_type>
+        <hint>Personal wish list application</hint>
+        <name/>
+        <order/>
+        <roles>x_snc_my_wish_list.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-17 20:00:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d9916e087750510455cb809cebb3575</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Wish List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Wish List" source="x_snc_my_wish_list">e158da6087750510455cb809cebb35ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Wish List">e158da6087750510455cb809cebb35ae</sys_scope>
+        <sys_update_name>sys_app_application_2d9916e087750510455cb809cebb3575</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-17 20:00:57</sys_updated_on>
+        <title>My Wish List</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="x_snc_my_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <help/>
+            <hint/>
+            <label>Class</label>
+            <language>en</language>
+            <name>x_snc_my_wish_list_wish_item</name>
+            <plural>Class</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-17 19:59:34</sys_created_on>
+            <sys_id>194916e087750510455cb809cebb3568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class</sys_name>
+            <sys_package display_value="My Wish List" source="x_snc_my_wish_list">e158da6087750510455cb809cebb35ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Wish List">e158da6087750510455cb809cebb35ae</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_my_wish_list_wish_item_sys_class_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-17 19:59:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
