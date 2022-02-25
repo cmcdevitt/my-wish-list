@@ -3,112 +3,140 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_display_name</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>f4113a3487f10110455cb809cebb3520</sys_id>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>c7aaeb5e87f105102d0b422e0ebb350b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>78113a3487f10110455cb809cebb3520</sys_id>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>8faaeb5e87f105102d0b422e0ebb350b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>2</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>03aaeb5e87f105102d0b422e0ebb350c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>83aaeb5e87f105102d0b422e0ebb350c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>f8113a3487f10110455cb809cebb3520</sys_id>
+            <position>4</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>07aaeb5e87f105102d0b422e0ebb350c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requester</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>7c113a3487f10110455cb809cebb3520</sys_id>
+            <position>5</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>87aaeb5e87f105102d0b422e0ebb350c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>fc113a3487f10110455cb809cebb3520</sys_id>
+            <position>6</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>0baaeb5e87f105102d0b422e0ebb350c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>quantity</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>70113a3487f10110455cb809cebb3521</sys_id>
+            <position>7</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>8baaeb5e87f105102d0b422e0ebb350c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>f0113a3487f10110455cb809cebb3521</sys_id>
+            <position>8</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>0faaeb5e87f105102d0b422e0ebb350c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>url</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-18 16:22:03</sys_created_on>
-            <sys_id>74113a3487f10110455cb809cebb3521</sys_id>
+            <position>9</position>
+            <sys_created_by>chris.mcdevitt</sys_created_by>
+            <sys_created_on>2022-02-23 12:24:34</sys_created_on>
+            <sys_id>8faaeb5e87f105102d0b422e0ebb350c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_my_wish_list_wish_item" sys_domain="global" view="Default view">424f6eb087f10110455cb809cebb35d8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-18 16:22:03</sys_updated_on>
+            <sys_updated_by>chris.mcdevitt</sys_updated_by>
+            <sys_updated_on>2022-02-23 12:24:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description/>
+        <name>Test2</name>
+        <record_for_rollback>false</record_for_rollback>
+        <script><![CDATA[gs.info("Nothing2"); // Version 2]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>joe.harvey</sys_created_by>
+        <sys_created_on>2022-02-25 20:22:16</sys_created_on>
+        <sys_id>332b674f4739c11077f53008946d43e6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test2</sys_name>
+        <sys_package display_value="My Wish List" source="x_snc_my_wish_list">e158da6087750510455cb809cebb35ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Wish List">e158da6087750510455cb809cebb35ae</sys_scope>
+        <sys_update_name>sys_script_fix_332b674f4739c11077f53008946d43e6</sys_update_name>
+        <sys_updated_by>joe.harvey</sys_updated_by>
+        <sys_updated_on>2022-02-25 20:28:09</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
